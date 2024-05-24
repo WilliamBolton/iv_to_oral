@@ -5,15 +5,16 @@ This repository contains the code used for the paper "Personalising intravenous 
 
 If you use this code please cite this code repository and our associated publication. 
 
-@misc{bolton_iv_to_oral_2023,
-  author = {Bolton, William},
-  title = {Personalising intravenous to oral antibiotic switch decision making through fair interpretable machine learning.},
-  doi = {10.5281/zenodo.10251521},
-  year = {2023},
-  publisher = {GitHub},
-  url = {https://github.com/WilliamBolton/iv_to_oral}
+@software{will_bolton_2023_10251521,
+  author       = {Will Bolton},
+  title        = {WilliamBolton/iv\_to\_oral: First release},
+  month        = dec,
+  year         = 2023,
+  publisher    = {Zenodo},
+  version      = {v1.0.0},
+  doi          = {10.5281/zenodo.10251521},
+  url          = {https://doi.org/10.5281/zenodo.10251521}
 }
-
 
 @article{bolton_personalising_2024,
 	title = {Personalising intravenous to oral antibiotic switch decision making through fair interpretable machine learning},
