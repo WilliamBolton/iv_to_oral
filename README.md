@@ -3,6 +3,8 @@ This repository contains the code used for the paper "Personalising intravenous 
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10251521.svg)](https://doi.org/10.5281/zenodo.10251521)
 
+Note the MIMIC-IV antibiotic.csv file can be found in Google bigquery by following: physionet-data -> mimic_derived -> antibiotic
+
 If you use this code please cite this code repository and our associated publication. 
 
 @software{will_bolton_2023_10251521,
